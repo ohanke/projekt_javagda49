@@ -1,1 +1,17 @@
-# projekt_javagda49
+# Projectname: Projekt javagda49
+
+# Group name: Dream Team
+
+# Team
+- Michał Szałkowski
+- Michaś Szałkowski
+- Marta Trenda
+
+# Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin nisl nulla, at dignissim arcu faucibus vel. Quisque fermentum ipsum sed felis viverra, non feugiat eros commodo. Suspendisse potenti. Fusce venenatis orci non ipsum ultricies volutpat. Vestibulum vulputate finibus velit, vitae tempor orci laoreet in. Suspendisse quis neque tincidunt, sollicitudin turpis quis, elementum mauris. Pellentesque ornare elementum ante et cursus. 
+
+# Main features
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet
